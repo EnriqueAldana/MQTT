@@ -1,0 +1,15 @@
+Datos de acceso.
+
+Articulo sobre configuracion de ssl
+https://mcuoneclipse.com/2017/04/14/enable-secure-communication-with-tls-and-the-mosquitto-broker/
+
+tagtemporal Enrique1937$
+usuarioMQTT shoaCh3ohnokeathal6eeH2marei2o
+
+
+Copiar archivos de servidor remoto
+scp cerometros@10.8.0.1:/home/cerometros/MQTT/mosquito.7z ./mosquitto.7z
+scp cerometros@10.8.0.1:/home/cerometros/MQTT/mosquitto/certGenerated/tagTemporal_certs.7z /Users/enrique/DiscoDeEnrique/2022/Proyectos/IONOS/SSL/tagTemporal
+
+Herramienta MQTT cliente
+https://mqttfx.jensd.de/index.php
